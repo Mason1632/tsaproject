@@ -1,0 +1,4 @@
+console.log"(1)"
+console.log"(0)"
+function binary()
+(for 1 in 0 (0+1) )
